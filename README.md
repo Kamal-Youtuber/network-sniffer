@@ -51,3 +51,6 @@ README.md → Documentation
 
 This tool is developed for educational purposes only. Do not use it for illegal activities.
 
+## 📸 Output Screenshot
+
+![Output](Result.png)
